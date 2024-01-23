@@ -1,0 +1,131 @@
+Placement_In_Race
+You are third place right now in a race. What place are you in when you pass the person in second place? 
+1st
+2nd
+3rd
+None of the above
+2nd
+0
+1
+
+Days_In_Month
+How many months have 28 days?
+2
+1
+All of them.
+Depends if there's a leap year or not.
+All of them.
+0
+1
+
+Dead_Sheep
+A farmer has 17 sheep, all of them but 8 die. How many sheep are still standing?
+8
+9
+25
+35
+8
+1
+1
+
+Popeye
+Which of the following gives Popeye his strength?
+Broccoli
+Spinach
+Fried chicken
+All of them.
+Spinach
+1
+1
+
+Arithmetic_Expressions
+If x is 5, what is the value of y after the statement y = x + 10; is executed?
+There is no result due to a compilation error.
+15
+5
+This is an invalid statement.
+15
+1
+2
+
+What_Am_I
+I am tall when I am young and I am short when I am old. What am I?
+Person
+Candle
+Giraffe
+None of the above
+Candle
+1
+1
+
+Yellow
+There is a one-story house in which everything is yellow. Yellow walls, yellow doors, yellow furniture. What color are the stairs?
+Yellow
+White
+There are no stairs it is a one-story house
+Concrete
+There are no stairs it is a one-story house
+0 
+1
+
+Hair_on_Head
+A man who was outside in the rain without an umbrella or hat did not get a single hair on his head wet. Why?
+He was bald.
+He was under a roof.
+He was too short.
+None of the above.
+He was bald.
+0
+1
+
+Lucky_Seven
+I am an odd number. Take away a letter and I become even. What number am I?
+Eleven
+Seven
+Five
+There is no such number.
+Seven
+1
+1
+
+Handle_With_Care
+What is so fragile that saying its name breaks it?
+Glass
+Air
+Silence
+None of the above.
+Silence
+0
+1
+
+Eating_Apples
+Five people were eating apples, A finished before B, but behind C. D finished before E, but behind B. What was the finishing order?
+ABCDE
+EDBCA
+CABDE
+CABED
+CABDE
+1
+1
+
+Catching_Mice
+If five cats can catch five mice in five minutes, how long will it take one cat to catch one mouse?
+1 minute
+5 minutes
+25 minutes
+15 minutes
+5 minutes
+1
+1
+
+Wrong_Way
+A truck driver was going down a one-way street the wrong way. There were two policemen on duty along the street yet they didn't stop him. Why?
+He was their friend.
+They were on strike.
+The truck driver was walking.
+There were no vehicles coming the other way.
+The truck driver was walking.
+1
+1
+
+END
